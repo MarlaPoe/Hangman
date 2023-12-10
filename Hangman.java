@@ -159,4 +159,4 @@ public class Hangman {
     }
 }
 
-//Kommentar diff
+//Kommentar zu brach_one hinzugefügt

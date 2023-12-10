@@ -158,3 +158,5 @@ public class Hangman {
         return false;
     }
 }
+
+//Kommentar zu brach_one hinzugefügt

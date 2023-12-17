@@ -4,7 +4,13 @@ import java.util.Scanner;
 
 public class Hangman {
     /**
+     * In WORDS are all words used in the hangman-game.     * In WORDS are all words used in the hangman-game.      * In WORDS are all words used in the hangman-game.     * In WORDS are all words used in the hangman-game.
+
+
+     
      * In WORDS are all words used in the hangman-game.
+     * In WORDS are all words used in the hangman-game.
+
      */
     private static final String[] WORDS = { };
 
